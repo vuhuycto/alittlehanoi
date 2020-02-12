@@ -1,0 +1,21 @@
+.breadcumps {
+  margin-top: 0px;
+  padding-left: .5em;
+  font-size: 0.7em;
+}
+
+.booking {
+  margin-top: 2em;
+}
+
+.date-time, .contact-info {
+  display: grid;
+  margin: 1em 0 1em 0;
+  grid-template-columns: 1fr 1fr;
+  column-gap: .5em;
+  row-gap: .5em;
+}
+
+form {
+  padding: 1em;
+}

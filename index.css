@@ -1,0 +1,34 @@
+.dishes {
+  padding: 1em;
+}
+
+.dish {
+  display: grid;
+  grid-template-columns:  1fr 1fr;
+  border: 1px solid #6FBFA2;
+  padding: .5em;
+  margin-bottom: .5em;
+}
+
+.dish img {
+  display: block;
+  padding-top: 1em;
+}
+
+.price {
+  text-align: right;
+  color: #EAB856;
+}
+
+span {
+  display: block;
+  text-align: center;
+  margin: 1em;
+}
+
+.testimonial-name {
+  text-align: center;
+}
+
+
+
